@@ -1,4 +1,4 @@
-# JSBasics-Timer
+# Stopwatch Timer
 A basic timer written in JS that can play and pause. From the Colt Steele Modern JS Course on Udemy.
 
 ## Things I Learned
